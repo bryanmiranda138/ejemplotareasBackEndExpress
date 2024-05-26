@@ -15,7 +15,8 @@ recordRoutes.route('/').get(async function (_req, res) {
   + "<br> Hostname = " + os.hostname()
   + "<br> OS = " + os.platform()
   + "<br> version = " + os.version()
-  + "<br> Total Memoria "+ os.totalmem()  
+  + "<br> Total Memoria "+ os.totalmem()
+  + "<h2> CM16127, Bryan Andres Candelario Miranda</h2>"  
   );  
 });
 
