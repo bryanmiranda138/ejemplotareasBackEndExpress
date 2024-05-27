@@ -40,8 +40,6 @@ ATLAS_URI=mongodb+srv://backend:claveUsada123@sandbox.servidor.mongodb.net/ejemp
 
 En localhost esta es la cadena
 ATLAS_URI=mongodb://localhost:27017/ejemplo
-### ATLAS_URI=mongodb+srv://ejemplotareas:GioazrZXngglJoD6@cluster0.lq1xaix.mongodb.net/ejemplo?retryWrites=true&w=majority&appName=Cluster0
-
 
 
 #### Universidad de El Salvador
